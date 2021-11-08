@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+#main {
+  
+}
+
+#header {
+  height: 46px;
+  background-color: black;
+  .nav  {
+    height: 100%;
+    li {
+      height: 100%;
+      display: inline-block;
+      a{
+        text-decoration: none;
+        color: white;
+      }
+    }
+  }
+  .nav li:hover{
+    background-color: rgb(204, 204, 204);
+  }
+
+  .subnav {
+    display: none;
+  }
+}
+
+#slider {
+  
+}
+
+#content {
+  
+}
+
+#footer {
+  
+}
